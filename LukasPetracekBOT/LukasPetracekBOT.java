@@ -12,6 +12,9 @@ import java.awt.geom.Rectangle2D;
 import java.util.ArrayList;
 import java.util.List;
 
+//Chtel jsem implementovat lepsi distancovani od ostatnich n00b botu, kvuli coronaviru a aby jsem mohl zandavat lepsi noscope a zrektil je uplne vsechny
+//ale to se mi vubec nedarilo, takze jsem jen pridal jednu barvicku a nechal to byt:))) nevim co jinyho bych tam upravil
+
 public class LukasPetracekBOT extends AdvancedRobot {
 
     public static int BINS = 47;
