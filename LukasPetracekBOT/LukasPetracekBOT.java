@@ -15,6 +15,8 @@ import java.util.List;
 //Chtel jsem implementovat lepsi distancovani od ostatnich n00b botu, kvuli coronaviru a aby jsem mohl zandavat lepsi noscope a zrektil je uplne vsechny
 //ale to se mi vubec nedarilo, takze jsem jen pridal jednu barvicku a nechal to byt:))) nevim co jinyho bych tam upravil
 
+//zkousel jsem to jeste nakombit s wall hugerem, ale to uz nestiham, ale urcite by to mohlo byt interesting....
+
 public class LukasPetracekBOT extends AdvancedRobot {
 
     public static int BINS = 47;
